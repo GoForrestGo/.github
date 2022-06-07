@@ -7,17 +7,24 @@ This contains my Golang projects I've made during my learning process.
 ## Projects 
 
 - [ ] Chat Application using WebSocket
-- [ ] Microservices With GO
+- [ ] Microservices With Go
+  - [ ] gRPC
+  - [ ] RabbitMQ
+  - [ ] Kubernetes
 - [ ] RESTful API 
 - [ ] Web Application
 - [ ] CLI 
 
 ## 👩‍💻 Useful Resources
 
-Books
+Books About Go
 - [ ] Go in action [Manning]
 - [ ] The Go Programming Languages
 - [ ] Go web programming.
+
+Other Books
+- [ ] Microservices 
+- [ ] Web Architecture 101, [Educative]
 
 Non-book resources:
 
