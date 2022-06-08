@@ -7,6 +7,7 @@ This contains my Golang projects I've made during my learning process.
 ## Projects 
 
 - [ ] Chat Application using WebSocket
+- [ ] Video Processing Server [Edit Video and Stream them]
 - [ ] Microservices With Go
   - [ ] gRPC
   - [ ] RabbitMQ
