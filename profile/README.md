@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-This contains my Golang projects I've made during my learning process.
+This repo contains my Golang projects I've made during my learning process.
+You can think of it as a playground for me.
 
 
 
