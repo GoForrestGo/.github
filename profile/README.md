@@ -14,6 +14,7 @@ This contains my Golang projects I've made during my learning process.
   - [ ] Kubernetes
 - [ ] RESTful API 
 - [ ] Go with GraphQL Application
+- [ ] Go with ElasticSearch
 - [ ] Static Web server
 - [ ] CLI 
 
