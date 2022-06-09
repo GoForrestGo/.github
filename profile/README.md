@@ -13,7 +13,8 @@ This contains my Golang projects I've made during my learning process.
   - [ ] RabbitMQ
   - [ ] Kubernetes
 - [ ] RESTful API 
-- [ ] Web Application
+- [ ] Go with GraphQL Application
+- [ ] Static Web server
 - [ ] CLI 
 
 ## 👩‍💻 Useful Resources
