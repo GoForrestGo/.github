@@ -30,7 +30,10 @@ Books About Go
 Other Books
 - [ ] Microservices 
 - [ ] Web Architecture 101, [Educative]
-
+- [ ] Distributed Systems, Third Edition.
+- [ ] Designing Data Intensive Application.
+- [ ] <a href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB"> MIT 6.824 Distributed Systems, Spring 2022</a>
+- [ ] <a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB">Distributed Systems Lecture</a>
 Non-book resources:
 
 - [ ] <a href="https://www.youtube.com/c/NicJackson">NicJackson, Focused on Microservices</a>
