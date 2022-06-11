@@ -11,51 +11,48 @@ You can think of it as a playground for me.
 - [ ] Video Processing Server [Edit Video and Stream them]
 - [ ] Microservices With Go
   - [ ] gRPC
-  - [ ] RabbitMQ
-  - [ ] Kubernetes
-- [ ] RESTful API 
+  - [ ] AMQP with RabbitMQ
+  - [ ] Deploying using Docker Swarm
+  - [ ] Deploying to Kubernetes
+- [ ] RESTful API
 - [ ] Go with GraphQL Application
 - [ ] Go with ElasticSearch
-- [ ] Dockerization
-- [ ] Static Web server
-- [ ] CLI 
 
 ## 👩‍💻 Useful Resources
 
-Books About Go
+<strong>Go Books</strong>
 - [ ] Go in action [Manning]
 - [ ] The Go Programming Languages
 - [ ] Go web programming.
-
-Other Books
-- [ ] Microservices 
-- [ ] Web Architecture 101, [Educative]
-- [ ] Distributed Systems, Third Edition.
-- [ ] Designing Data Intensive Application.
-- [ ] <a href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB"> MIT 6.824 Distributed Systems, Spring 2022</a>
-- [ ] <a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB">Distributed Systems Lecture</a>
-Non-book resources:
-
-- [ ] <a href="https://www.youtube.com/c/NicJackson">NicJackson, Focused on Microservices</a>
-
+Other:
 - [ ] <a href="https://www.oreilly.com/videos/ultimate-go-programming/9780135261651/">Ultimate Go, oreilly</a>
 
-Useful Resources:
+### Distributed Systems
+
+<strong>Books</strong>
+- [ ] Distributed Systems, Third Edition.
+- [ ] Designing Data Intensive Application.
+
+<strong>Courses</strong>
+- [ ] Web Architecture 101, [Educative]
+- [ ] <a href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB"> MIT 6.824 Distributed Systems, Spring 2022</a>
+- [ ] <a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB">Distributed Systems Lecture</a>
+
+### Microservices
+
+Books:
+- [ ] Building Microservices: Designing Fine-Grained Systems, by Sam Newman (the best) [language agnostic]
+- [ ] <a href="https://www.youtube.com/c/NicJackson">NicJackson, Focused on Microservices</a>
+Courses:
+- [ ] Educative has two courses which are pure gold.
+
+
+### Other Resources
+
+<strong>Keep in touch with the community</strong>
 - [ ] <https://pkg.go.dev/>
 - [ ] <https://pkg.go.dev/std>
 - [ ] <a href="lets-go.alexedwards.net">Lets Golang</a>
 - [ ] <a href="lets-go-further.alexedwards.net">Lets Go further</a>
 - [ ] <a href="gobyexample.com">Go By Example</a>
-
-
-Non-book resources:
-
-- [ ] <a href="https://www.youtube.com/c/NicJackson">NicJackson</a>
-
-- [ ] <a href="https://www.oreilly.com/videos/ultimate-go-programming/9780135261651/">Ultimate Go, oreilly</a>
-
-Useful Resources:
-<https://pkg.go.dev/> </br>
-<https://pkg.go.dev/std>
-
-Useful Resources: https://pkg.go.dev/ https://pkg.go.dev/std
+- [ ] <a href="https://pkg.go.dev/">Standard Documentation</a>
