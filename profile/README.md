@@ -44,7 +44,8 @@ Books:
 - [ ] Building Microservices: Designing Fine-Grained Systems, by Sam Newman (the best) [language agnostic]
 - [ ] <a href="https://www.youtube.com/c/NicJackson">NicJackson, Focused on Microservices</a>
 Courses:
-- [ ] Educative has two courses which are pure gold.
+- [ ] <a href="https://www.educative.io/module/introduction-to-microservices">An Introduction to Microservice Principles and Concepts - [Educative]</a>
+- [ ] <a href="https://www.educative.io/courses/microservice-architecture-practical-implementation">Practical Implementation - [Educative]</a>
 
 
 ### Other Resources
